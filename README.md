@@ -1,7 +1,20 @@
 # Loup Et Mouton
-Simulation d'une population de plante et de monton
+
+## Principe :
+
+Simulation d'une population de plante, de monton et de loups
+
+## Exemples de résultats :
+
+<br />
+
+Evolution de la population de moutons et de la quantitée d'herbe dans un cas sans loups :
 
 ![Image Descriptive](LoupEtMouton/resultats.PNG)
+
+<br />
+
+Visuel de la simulation
 
 ![Image Descriptive](LoupEtMouton/exemple.png)
 
